@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
-<h3 align="center">A passionate developer from India with interest in React and NodeJS .</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Nishant</h1>
+<h3 align="center">🌐Full Stack Developer  🏥 SDE @ Care.Fi</h3>
 
-<p align="left"> <a href="https://twitter.com/nishant_2106" target="blank"><img src="https://img.shields.io/twitter/follow/nishant_2106?logo=twitter&style=for-the-badge" alt="nishant_2106" /></a> </p>
+- 🌱 I’m currently learning **React and Node.JS**
 
-- 🌱 I’m currently learning **React, Typescript, NodeJS.**
+- 👨‍💻 All of my projects are available [here](https://nishantpandey.netlify.app/projects)
+
+
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **nishantpandey2106@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3r8yinW](https://bit.ly/3r8yinW)
+### 🤝 Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://nishantpandey.netlify.app/)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nishant_2106)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-pandey-dev)
-</p># 💫 About Me:
-- 🌱 I’m currently learning **React and Node.JS**<br><br>- 👨‍💻 All of my projects are available [here](https://nishantpandey.netlify.app/projects)<br><br>- 💬 Ask me about **Web Development**<br><br>- 📫 How to reach me **nishantpandey2106@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://nishantpandey.netlify.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nishant_2106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-pandey-dev)
 
+---
 
 
 # 💻 Tech Stack:
