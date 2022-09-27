@@ -10,9 +10,9 @@
 - 📄 Know about my experiences [https://bit.ly/3r8yinW](https://bit.ly/3r8yinW)
 
 <h3 align="left">Connect with me:</h3>
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://nishantpandey.netlify.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nishant_2106)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-pandey-dev)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://nishantpandey.netlify.app/)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nishant_2106)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-pandey-dev)
 </p># 💫 About Me:
 - 🌱 I’m currently learning **React and Node.JS**<br><br>- 👨‍💻 All of my projects are available [here](https://nishantpandey.netlify.app/projects)<br><br>- 💬 Ask me about **Web Development**<br><br>- 📫 How to reach me **nishantpandey2106@gmail.com**
 
