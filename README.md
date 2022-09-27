@@ -35,8 +35,8 @@
 ### 👽 EXTRA
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nishant2106&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nishant2106&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=nishant2106&show_icons=true&theme=github_dark&hide_border=true" alt="nishant's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant2106&theme=tokyonight&hide_border=true" alt="nishant's github streak" width="48%" >
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant2106&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
