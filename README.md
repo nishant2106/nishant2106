@@ -37,7 +37,6 @@
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=nishant2106&show_icons=true&theme=github_dark&hide_border=true" alt="nishant's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant2106&theme=tokyonight&hide_border=true" alt="nishant's github streak" width="48%" >
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant2106&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
