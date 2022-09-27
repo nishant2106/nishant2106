@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/nishant_2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_2106" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishant-pandey-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-pandey-dev" height="30" width="40" /></a>
-<a href="https://medium.com/nishant2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nishant2106" height="30" width="40" /></a>
+<a href="https://medium.com/@nishant2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nishant2106" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishant2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant2106" height="30" width="40" /></a>
 </p>
 
