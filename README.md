@@ -10,8 +10,9 @@
 - 📄 Know about my experiences [https://bit.ly/3r8yinW](https://bit.ly/3r8yinW)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nishant.pandey.395891) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_nishant21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-pandey-dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nishant2106) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20078541) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nishant_2106) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://nishantpandey.netlify.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nishant_2106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-pandey-dev)
 </p># 💫 About Me:
 - 🌱 I’m currently learning **React and Node.JS**<br><br>- 👨‍💻 All of my projects are available [here](https://nishantpandey.netlify.app/projects)<br><br>- 💬 Ask me about **Web Development**<br><br>- 📫 How to reach me **nishantpandey2106@gmail.com**
 
