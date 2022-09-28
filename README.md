@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Nishant</h1>
-<h3 align="center">🌐Full Stack Developer  🏥 SDE @ Care.Fi</h3>
+<h3 align="center">🌐 Full Stack Developer  🏥 SDE @ Care.Fi</h3>
 
 - 🌱 I’m currently learning **React and Node.JS**
 
@@ -38,14 +38,16 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nishant2106&show_icons=true&theme=github_dark&hide_border=true" alt="nishant's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant2106&theme=tokyonight&hide_border=true" alt="nishant's github streak" width="48%" >
 
+<details>
+  <summary>🧑‍🔬 This week I did</summary>
+  <!--START_SECTION:waka-->
 
-<!--START_SECTION:waka-->
+  ```text
+  JSON   0 secs          █████████████████████████   100.00 %
+  ```
 
-```text
-JSON   0 secs          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
 
 
 ### ✍️ Random Dev Quote
