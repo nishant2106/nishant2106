@@ -38,6 +38,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nishant2106&show_icons=true&theme=github_dark&hide_border=true" alt="nishant's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant2106&theme=tokyonight&hide_border=true" alt="nishant's github streak" width="48%" >
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>🧑‍🔬 This week I did</summary>
   <!--START_SECTION:waka-->
