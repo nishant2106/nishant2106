@@ -39,7 +39,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant2106&theme=tokyonight&hide_border=true" alt="nishant's github streak" width="48%" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 <details>
   <summary>🧑‍🔬 This week I did</summary>
   <!--START_SECTION:waka-->
@@ -60,5 +60,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=nishant2106&icon=0&color=0)](https://visitcount.itsvg.in)
 
