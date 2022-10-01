@@ -35,7 +35,7 @@
 ### 👽 EXTRA
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://nishantpandey.netlify.app/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://nishantpandey.netlify.app/) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://nishantpandey.netlify.app/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://nishantpandey.netlify.app/)
 # 📊 GitHub Stats:
-[<img src="https://github-readme-stats.vercel.app/api?username=nishant2106&show_icons=true&theme=github_dark&hide_border=true" alt="nishant's github stats" width="48%" align="right" >](https://nishantpandey.netlify.app/)
+[<img src="https://github-readme-stats.vercel.app/api?username=nishant2106&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="nishant's github stats" width="48%" align="right" >](https://nishantpandey.netlify.app/)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant2106&theme=tokyonight&hide_border=true" alt="nishant's github streak" width="48%" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
