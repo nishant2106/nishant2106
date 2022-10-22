@@ -1,8 +1,8 @@
 import { faGithub } from "@fortawesome/free-brands-svg-icons/faGithub";
-import { faFacebookF } from "@fortawesome/free-brands-svg-icons/faFacebookF";
-import { faInstagram } from "@fortawesome/free-brands-svg-icons/faInstagram";
+// import { faFacebookF } from "@fortawesome/free-brands-svg-icons/faFacebookF";
+// import { faInstagram } from "@fortawesome/free-brands-svg-icons/faInstagram";
 import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons/faLinkedinIn";
-import { faCodepen } from "@fortawesome/free-brands-svg-icons";
+// import { faCodepen } from "@fortawesome/free-brands-svg-icons";
 import { faTwitter } from "@fortawesome/free-brands-svg-icons/faTwitter";
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons/faEnvelope";
 import { faMedium } from "@fortawesome/free-brands-svg-icons/faMedium";
@@ -15,16 +15,16 @@ const data = [
     label: "Github",
     icon: faGithub,
   },
-  {
-    link: "https://www.facebook.com/nishant.pandey.395891",
-    label: "Facebook",
-    icon: faFacebookF,
-  },
-  {
-    link: "https://www.instagram.com/i_nishant21/",
-    label: "Instagram",
-    icon: faInstagram,
-  },
+  // {
+  //   link: "https://www.facebook.com/nishant.pandey.395891",
+  //   label: "Facebook",
+  //   icon: faFacebookF,
+  // },
+  // {
+  //   link: "https://www.instagram.com/i_nishant21/",
+  //   label: "Instagram",
+  //   icon: faInstagram,
+  // },
   {
     link: "https://www.linkedin.com/in/nishant-pandey-dev",
     label: "LinkedIn",
@@ -40,11 +40,11 @@ const data = [
     label: "Email",
     icon: faEnvelope,
   },
-  {
-    link: "https://leetcode.com/nishant_21/",
-    label: "LeetCode",
-    icon: faCodepen,
-  },
+  // {
+  //   link: "https://leetcode.com/nishant_21/",
+  //   label: "LeetCode",
+  //   icon: faCodepen,
+  // },
   {
     link: "https://nishant2106.medium.com/",
     label: "Medium",

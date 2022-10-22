@@ -1,16 +1,16 @@
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a Software Developer Engineer - 1 at [CareFi](https://carefi.in) where I build FinTech Products to make healthcare Financing Faster and Efficient. I also learn multiple Technologies and build independent projects. I am specially interested in Web Development, PWA and React. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+At CareFi, I have learned how to build product, manage people, be part of a team and build on-line predictive models with technologies like [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Django Rest Framework](https://www.django-rest-framework.org/), [ionic](https://ionicframework.com/) and [ant](https://ant.design/). I primarily work as a Front-End Developer but like to contribute in every path of the product be it Planning, Design and specially Backend .
 
 # Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- I loved playing mobile games as a kid and would spend hours on my Parent's phone.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- At 11, After seeing my love and curiosity with Mobile and Technology my parents bought me a [Samsung Galaxy Pocket](https://gadgets360.com/samsung-galaxy-pocket-539)
 
 - In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
 
@@ -55,7 +55,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+- I am from originally from Mumbai, Maharashtra. I have since lived in Pune, Delhi, Allahabad and Surat.
 - I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
 - In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
 - In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
@@ -79,7 +79,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - always finding inspiration.
 - enabling a brighter future.
 - doing better.
-- you not checking the commit history for earlier drafts of this file.
+- starting a company.
 
 # Websites from people I admire
 
