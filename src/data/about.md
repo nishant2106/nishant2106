@@ -10,13 +10,11 @@ At CareFi, I have learned how to build product, manage people, be part of a team
 
 - I loved playing mobile games as a kid and would spend hours on my Parent's phone.
 
-- At 11, After seeing my love and curiosity with Mobile and Technology my parents bought me a [Samsung Galaxy Pocket](https://gadgets360.com/samsung-galaxy-pocket-539)
+- At 11, After seeing my love and curiosity with Mobile and Technology my parents bought me a [Samsung Galaxy Pocket](https://gadgets360.com/samsung-galaxy-pocket-539).
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- At 13, I discovered the art of soldering and started assembling keypad mobile phones for our mobile repair shop. I also stated collecting magnet inside the speakers by opening the old phones. Broke some sim cards as well, lol.
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- Next two years were spent exploring youtube and Internet to learn about General knowledge, science and most importantly Songs.
 
 - At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
 
