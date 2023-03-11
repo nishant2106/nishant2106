@@ -26,7 +26,7 @@ const positions = [
     company: "Krixi Corporations",
     position: "Project Intern",
     link: "https://krixi.com/",
-    daterange: "September 2016 - 2018",
+    daterange: "September 2021 - April 2022",
     points: [
       "Developed a project to automatically Convert React class based component to Functional component by manipulating Abstact Syntax Tree and ASTExplorer.",
       "Wrote research paper with my team and published on reputed international Platforms",
