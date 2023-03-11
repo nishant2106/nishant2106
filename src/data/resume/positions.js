@@ -14,7 +14,7 @@ const positions = [
     company: "Innothoughts Systems",
     position: "Software Developer Intern",
     link: "https://www.innothoughts.com/",
-    daterange: "April 2017 - Present",
+    daterange: "January 2022 - July 2022",
     points: [
       "Lead a team of 4 to develop guidemedoc Project and Managed foreign client demonstrating Leadership and Communication Skills.",
       "Worked as a full stack developer ",
@@ -28,9 +28,9 @@ const positions = [
     link: "https://krixi.com/",
     daterange: "September 2021 - April 2022",
     points: [
-      "Developed a project to automatically Convert React class based component to Functional component by manipulating Abstact Syntax Tree and ASTExplorer.",
-      "Wrote research paper with my team and published on reputed international Platforms",
-      "as a backend developer to write React-Codemod which facilitates automated refactoring of class-based react code to equivalent function-based react code",
+      "Developed a project to automatically convert React class-based components to functional components by manipulating the Abstract Syntax Tree and ASTExplorer.",
+      "Wrote a research paper with my team and published it on reputed international platforms.",
+      "Worked as a backend developer to write React-Codemod, which facilitates automated refactoring of class-based React code to equivalent function-based React code.",
     ],
   },
 ];
