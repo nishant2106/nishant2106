@@ -5,9 +5,10 @@ const positions = [
     link: "https://carefi.in/",
     daterange: "July 2022 - Present",
     points: [
-      "Working as a sole front-end developer in the company",
-      "Building Finance products for healthcare",
-      "Implemented automation testing on Postman ",
+      "As a member of the founding team, I played a key role in the development and implementation of a loan origination system (LOS) that streamlined the loan application process and increased efficiency.",
+      "Responsible for the design and management of internal tools, including a Loan Management System (LMS) and a sales dashboard, which provided valuable data insights and enhanced team productivity",
+      "Collaborated closely with the design team, product team, and business stakeholders to bring innovative products from concept to reality by effectively communicating requirements and managing timelines",
+      "Demonstrated strong leadership skills by successfully hiring and managing a front-end intern team, providing mentorship and guidance to ensure their professional development and success.",
     ],
   },
   {
@@ -16,10 +17,12 @@ const positions = [
     link: "https://www.innothoughts.com/",
     daterange: "January 2022 - July 2022",
     points: [
-      "Lead a team of 4 to develop guidemedoc Project and Managed foreign client demonstrating Leadership and Communication Skills.",
-      "Worked as a full stack developer ",
-      "Improved page loading from 27 seconds to 2.3 seconds by using Lazy Loading making the user experience rich",
-      "Attended client meetings and contributed in project flow and management.",
+      "Led a team of 4 developers to successfully develop the Guidemedoc project, showcasing strong leadership and communication skills while managing a foreign client.",
+      "Worked as a full-stack developer, contributing to the development of various components of the project.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Improved page loading time from 27 seconds to 2.3 seconds by implementing Lazy Loading, resulting in a rich user experience.",
+      "Actively participated in client meetings, providing valuable inputs in project flow and management.",
     ],
   },
   {
