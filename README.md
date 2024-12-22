@@ -32,7 +32,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    8 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.70 %
+TypeScript    8 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.69 %
 YAML          3 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
 Docker        2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
 HTML          1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
