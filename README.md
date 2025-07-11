@@ -3,8 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **React and Node.JS**
-
 - 👨‍💻 All of my projects are available <a href="https://nishant2106.github.io/nishant2106/projects" target="_blank">here</a>.
 
 - 💬 Ask me about **Web Development**
