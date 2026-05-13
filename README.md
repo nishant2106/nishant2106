@@ -30,7 +30,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Prisma       1 hr                  ███████████████░░░░░░░░░░   59.67 %
+TypeScript   37 mins               █████████▒░░░░░░░░░░░░░░░   37.59 %
+Bash         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
