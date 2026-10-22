@@ -24,21 +24,6 @@
 
 <!-- ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<details>
-  <summary>🧑‍🔬 This week I did! </summary>
-
-  <!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 44 mins         ██████████▒░░░░░░░░░░░░░░   41.98 %
-Other        2 hrs 11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-Text         1 hr 29 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-Markdown     1 hr 15 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-YAML         37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-```
-
-<!--END_SECTION:waka-->
-</details>
 
 ### ✍️ Random Dev Quote
 
