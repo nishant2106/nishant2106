@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available <a href="https://nishant2106.github.io/nishant2106/projects" target="_blank">here</a>.
 
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **nishantpandey2106@gmail.com**
 
 ### 🤝 Connect with me:
